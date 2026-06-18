@@ -1,4 +1,7 @@
-﻿#EXTM3U
+#EXTM3U cache=1000 playlist=1 deinterlace=1 url-tvg="http://iptv2.k-telecom.org/firmware/2.xml" m3uautoload=1
+
+#EXTINF:-1 group-title="Для всей семьи" tvg-logo=http://iptv2.k-telecom.org/logos/4710.png tvg-shift=0 tvg-name="1",Первый канал
+udp://@239.255.0.1:1234
 
 #EXTINF:0,Первый канал
 udp://@239.255.0.1:1234
