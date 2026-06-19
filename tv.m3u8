@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="http://epg.one/ru.xml.gz"
 
-#EXTINF:-1 tvg-shift=0 tvg-name="1",Первый канал
+#EXTINF:-1 tvg-id="1" tvg-shift="0",Первый канал
 udp://@239.255.0.1:1234
