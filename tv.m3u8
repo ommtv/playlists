@@ -21,5 +21,5 @@ udp://@239.255.0.4:1234
 #EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2450.png tvg-shift=0 tvg-name="54",Звезда
 udp://@239.255.0.27:1234
 
-#EXTINF:-1,Звезда Плюс
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2451.png tvg-shift=0,Звезда Плюс
 udp://@239.255.0.180:1234
