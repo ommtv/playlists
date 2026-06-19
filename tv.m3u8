@@ -1,19 +1,19 @@
 #EXTM3U cache=1000 playlist=1 deinterlace=1 url-tvg="http://iptv2.k-telecom.org/firmware/2.xml" m3uautoload=1
 
-#EXTINF:-1 group-title="Информационные" tvg-logo=http://iptv2.k-telecom.org/logos/4710.png tvg-shift=0 tvg-name="1",Первый канал
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4710.png tvg-shift=0 tvg-name="1",Первый канал
 udp://@239.255.0.1:1234
 
-#EXTINF:-1 group-title="Информационные" tvg-logo=http://iptv2.k-telecom.org/logos/5150.png tvg-shift=0 tvg-name="2",Россия 1
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5150.png tvg-shift=0 tvg-name="2",Россия 1
 udp://@239.255.0.2:1234
 
-#EXTINF:-1 group-title="Информационные" tvg-logo=http://iptv2.k-telecom.org/logos/5190.png tvg-shift=0 tvg-name="5",Россия 24
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5190.png tvg-shift=0 tvg-name="5",Россия 24
 udp://@239.255.0.6:1234
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo=http://iptv2.k-telecom.org/logos/2450.png tvg-shift=0 tvg-name="54",Звезда
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2450.png tvg-shift=0 tvg-name="54",Звезда
 udp://@239.255.0.27:1234
 
 #EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4480.png tvg-shift=0 tvg-name="7",ОТВ
 udp://@239.255.0.7:1234
 
-#EXTINF:-1 group-title="Информационные",Эхо ТВ 24
+#EXTINF:-1,Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
