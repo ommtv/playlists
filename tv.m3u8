@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epg.one/ru.xml.gz"
 
-#EXTINF:-1 tvg-id="146" tvg-shift="-2",Первый ка
+#EXTINF:-1 tvg-id="146" tvg-shift="-2",Первый канал
 udp://@239.255.0.1:1234
 
-#EXTINF:-1 tvg-id="711",Россия 1
+#EXTINF:-1 tvg-id="711" tvg-shift="-2",Россия 1
 udp://@239.255.0.2:1234
 
-#EXTINF:-1 tvg-id="1683",Россия 24
+#EXTINF:-1 tvg-id="1683" tvg-shift="-2",Россия 24
 udp://@239.255.0.6:1234
 
 #EXTINF:-1 tvg-id="6682",ОТВ
@@ -15,11 +15,11 @@ udp://@239.255.0.7:1234
 #EXTINF:-1 tvg-id="6776",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
-#EXTINF:-1 tvg-id="187",Россия К
+#EXTINF:-1 tvg-id="187" tvg-shift="-2",Россия К
 udp://@239.255.0.4:1234
 
-#EXTINF:-1 tvg-id="405",Звезда
+#EXTINF:-1 tvg-id="405" tvg-shift="-2",Звезда
 udp://@239.255.0.27:1234
 
-#EXTINF:-1 tvg-id="4661",Звезда Плюс
+#EXTINF:-1 tvg-id="4661" tvg-shift="-2",Звезда Плюс
 udp://@239.255.0.180:1234
