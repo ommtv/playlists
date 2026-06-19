@@ -5,3 +5,9 @@ udp://@239.255.0.1:1234
 
 #EXTINF:-1 group-title="Информационные" tvg-logo=http://iptv2.k-telecom.org/logos/5150.png tvg-shift=0 tvg-name="2",Россия 1
 udp://@239.255.0.2:1234
+
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5190.png tvg-shift=0 tvg-name="5",Россия 24
+udp://@239.255.0.6:1234
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo=http://iptv2.k-telecom.org/logos/2450.png tvg-shift=0 tvg-name="54",Звезда
+udp://@239.255.0.27:1234
