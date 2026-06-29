@@ -6,7 +6,7 @@ udp://@239.255.0.1:1234
 #EXTINF:-1 tvg-id="711" tvg-shift="-2", Россия 1
 udp://@239.255.0.2:1234
 
-#EXTINF:-1 tvg-id="1683" tvg-shift="-2", Россия 24
+#EXTINF:-1 tvg-id="1683" tvg-shift="2", Россия 24
 udp://@239.255.0.6:1234
 
 #EXTINF:-1 tvg-id="6682", ОТВ
