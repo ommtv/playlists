@@ -1,91 +1,91 @@
-#EXTM3U url-tvg="https://epg.one/ru.xml.gz" deinterlace=1 m3uautoload=1
+#EXTM3U url-tvg="https://epg.one/ru.xml.gz" deinterlace=1
 
-#EXTINF:-1 tvg-id="146" tvg-shift="-2",Первый канал
+#EXTINF:-1 tvg-id="146" tvg-shift="-2", Первый канал
 udp://@239.255.0.1:1234
 
-#EXTINF:-1 tvg-id="711" tvg-shift="-2",Россия 1
+#EXTINF:-1 tvg-id="711" tvg-shift="-2", Россия 1
 udp://@239.255.0.2:1234
 
-#EXTINF:-1 tvg-id="1683" tvg-shift="-2",Россия 24
+#EXTINF:-1 tvg-id="1683", Россия 24
 udp://@239.255.0.6:1234
 
-#EXTINF:-1 tvg-id="6682",ОТВ
+#EXTINF:-1 tvg-id="6682", ОТВ
 udp://@239.255.0.7:1234
 
-#EXTINF:-1 tvg-id="6776",Эхо ТВ 24
+#EXTINF:-1 tvg-id="6776", Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
-#EXTINF:-1 tvg-id="187" tvg-shift="-2",Россия К
+#EXTINF:-1 tvg-id="187" tvg-shift="-2", Россия К
 udp://@239.255.0.4:1234
 
-#EXTINF:-1 tvg-id="405" tvg-shift="-2",Звезда
+#EXTINF:-1 tvg-id="405" tvg-shift="-2", Звезда
 udp://@239.255.0.27:1234
 
-#EXTINF:-1 tvg-id="4661" tvg-shift="-2",Звезда Плюс
+#EXTINF:-1 tvg-id="4661" tvg-shift="-2", Звезда Плюс
 udp://@239.255.0.180:1234
 
-#EXTINF:-1 tvg-id="434" tvg-shift="-2",Усадьба ТВ
+#EXTINF:-1 tvg-id="434" tvg-shift="-2", Усадьба ТВ
 udp://@239.255.0.47:1234
 
-#EXTINF:-1 tvg-id="2463" tvg-shift="-2",Загородный
+#EXTINF:-1 tvg-id="2463" tvg-shift="-2", Загородный
 udp://@239.255.0.167:1234
 
-#EXTINF:-1 tvg-id="2026" tvg-shift="-2",Бобёр
+#EXTINF:-1 tvg-id="2026" tvg-shift="-2", Бобёр
 udp://@239.255.0.156:1234
 
-#EXTINF:-1 tvg-id="367" tvg-shift="-2",ZOO Парк
+#EXTINF:-1 tvg-id="367" tvg-shift="-2", ZOO Парк
 udp://@239.255.0.77:1234
 
-#EXTINF:-1 tvg-id="2498" tvg-shift="-2",В мире животных
+#EXTINF:-1 tvg-id="2498" tvg-shift="-2", В мире животных
 udp://@239.255.0.160:1234
 
-#EXTINF:-1 tvg-id="2432" tvg-shift="-2",Живая планета
+#EXTINF:-1 tvg-id="2432" tvg-shift="-2", Живая планета
 udp://@239.255.0.216:1234
 
-#EXTINF:-1 tvg-id="1036" tvg-shift="-2",История
+#EXTINF:-1 tvg-id="1036" tvg-shift="-2", История
 udp://@239.255.0.82:1234
 
-#EXTINF:-1 tvg-id="663" tvg-shift="-2",Сарафан
+#EXTINF:-1 tvg-id="663" tvg-shift="-2", Сарафан
 udp://@239.255.0.41:1234
 
-#EXTINF:-1 tvg-id="79" tvg-shift="-2",СТС
+#EXTINF:-1 tvg-id="79" tvg-shift="-2", СТС
 udp://@239.255.0.24:1234
 
-#EXTINF:-1 tvg-id="2280" tvg-shift="-2",Russian Travel Guide
+#EXTINF:-1 tvg-id="2280" tvg-shift="-2", Russian Travel Guide
 udp://@239.255.0.72:1234
 
-#EXTINF:-1 tvg-id="2419" tvg-shift="-2",Охота и рыбалка
+#EXTINF:-1 tvg-id="2419" tvg-shift="-2", Охота и рыбалка
 udp://@239.255.0.45:1234
 
-#EXTINF:-1 tvg-id="1332" tvg-shift="-2",Мульт
+#EXTINF:-1 tvg-id="1332" tvg-shift="-2", Мульт
 udp://@239.255.0.115:1234
 
-#EXTINF:-1 tvg-id="3357" tvg-shift="-2",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="3357" tvg-shift="-2", Мосфильм. Золотая коллекция
 udp://@239.255.0.251:1234
 
-#EXTINF:-1 tvg-id="9002" tvg-shift="-2",Советская киноклассика
+#EXTINF:-1 tvg-id="9002" tvg-shift="-2", Советская киноклассика
 udp://@239.255.0.125:1234
 
-#EXTINF:-1 tvg-id="53" tvg-shift="-2",Русский иллюзион
+#EXTINF:-1 tvg-id="53" tvg-shift="-2", Русский иллюзион
 udp://@239.255.0.78:1234
 
-#EXTINF:-1 tvg-id="834" tvg-shift="-2",Дом кино HD Премиум
+#EXTINF:-1 tvg-id="834" tvg-shift="-2", Дом кино HD Премиум
 udp://@239.255.0.162:1234
 
-#EXTINF:-1 tvg-id="2447" tvg-shift="-2",Победа
+#EXTINF:-1 tvg-id="2447" tvg-shift="-2", Победа
 udp://@239.255.0.238:1234
 
-#EXTINF:-1 tvg-id="566" tvg-shift="-2",Кинопремьера
+#EXTINF:-1 tvg-id="566" tvg-shift="-2", Кинопремьера
 udp://@239.255.0.157:1234
 
-#EXTINF:-1 tvg-id="485" tvg-shift="-2",Наше новое кино
+#EXTINF:-1 tvg-id="485" tvg-shift="-2", Наше новое кино
 udp://@239.255.0.199:1234
 
-#EXTINF:-1 tvg-id="12" tvg-shift="-2",Родное кино
+#EXTINF:-1 tvg-id="12" tvg-shift="-2", Родное кино
 udp://@239.255.0.101:1234
 
-#EXTINF:-1 tvg-id="1620" tvg-shift="-2",Комедия
+#EXTINF:-1 tvg-id="1620" tvg-shift="-2", Комедия
 udp://@239.255.0.219:1234
 
-#EXTINF:-1 tvg-id="2295" tvg-shift="-2",RT Док
+#EXTINF:-1 tvg-id="2295" tvg-shift="-2", RT Док
 udp://@239.255.0.113:1234
