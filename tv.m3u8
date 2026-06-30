@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.one/ru.xml.gz" deinterlace=1
+#EXTM3U url-tvg="https://epg.one/ru2.xml.gz" deinterlace=1
 
 #EXTINF:-1 tvg-id="146" tvg-shift="-2", Первый канал
 udp://@239.255.0.1:1234
@@ -89,6 +89,3 @@ udp://@239.255.0.219:1234
 
 #EXTINF:-1 tvg-id="2295" tvg-shift="-2", RT Док
 udp://@239.255.0.113:1234
-
-#EXTINF:-1 group-title="Радио" radio="true", Радио СИ
-https://online.radioc.ru/radioc_aacplus
