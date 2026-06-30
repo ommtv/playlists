@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.one/ru2.xml.gz" deinterlace=1
+#EXTM3U url-tvg="https://epg.one/ru.xml.gz" deinterlace=1
 
 #EXTINF:-1 tvg-id="146" tvg-shift="-2", Первый канал
 udp://@239.255.0.1:1234
