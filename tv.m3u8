@@ -24,7 +24,7 @@ udp://@239.255.0.27:1234
 #EXTINF:-1 tvg-id="4661" tvg-shift="-2", Звезда Плюс
 udp://@239.255.0.180:1234
 
-#EXTINF:-1 tvg-id="1036" tvg-shift="-2", История+
+#EXTINF:-1 tvg-id="1036" tvg-shift="-2", История
 udp://@239.255.0.82:1234
 
 #EXTINF:-1 tvg-id="434" tvg-shift="-2", Усадьба ТВ
