@@ -4,7 +4,7 @@
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ommtv.github.io/logos/tv/711.png" tvg-shift="-2", Россия 1
-udp://@239.255.0.2:1234
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-id="1683" tvg-logo="https://ommtv.github.io/logos/tv/1683.png", Россия 24
 udp://@239.255.0.6:1234
