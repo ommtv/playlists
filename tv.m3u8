@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.one/ru.xml.gz" deinterlace=1
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://ommtv.github.io/logos/tv/146.png", Первый канал
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_1TV.m3u8
+http://192.168.0.1/udp/239.255.0.1:1234
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ommtv.github.io/logos/tv/711.png" tvg-shift="-2", Россия 1
 udp://@239.255.0.2:1234
