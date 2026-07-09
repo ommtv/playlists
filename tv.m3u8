@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epg.one/ru.xml.gz" deinterlace=1
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://ommtv.github.io/logos/tv/146.png", Первый канал
-https://mhd128.iptv2022.com/x//streaming/1kanalott-drm/324/5/tracks-v4a1/mono.ts.m3u8
+http://mhd156.iptv2022.com/x//streaming/1kanalplus2-drm/324/5/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ommtv.github.io/logos/tv/711.png" tvg-shift="-2", Россия 1
-udp://@239.255.0.2:1234
+http://mhd219.iptv2022.com/x//streaming/rossia1plus2-drm/324/5/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1683" tvg-logo="https://ommtv.github.io/logos/tv/1683.png", Россия 24
 udp://@239.255.0.6:1234
