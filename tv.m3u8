@@ -14,7 +14,7 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NTAG/variant.m3u8
 
 #EXTINF:-1 tvg-id="6682" tvg-logo="https://ommtv.github.io/logos/tv/6682.png", ОТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-id="6776" tvg-logo="https://ommtv.github.io/logos/tv/6776.png", Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
