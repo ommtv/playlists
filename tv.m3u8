@@ -20,4 +20,5 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
 #EXTINF:-1 tvg-id="405" tvg-logo="https://ommtv.github.io/logos/tv/405.png" tvg-shift="-2", Звезда
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u8
