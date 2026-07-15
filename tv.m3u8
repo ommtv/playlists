@@ -23,3 +23,12 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u
 
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Загородная жизнь
 http://185.57.68.33/40/index.m3u8
+
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Мосфильм
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", История
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Наше новое кино
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
