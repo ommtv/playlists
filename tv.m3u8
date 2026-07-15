@@ -24,5 +24,8 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u
 #EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
 https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png" tvg-shift="-2", Усадьба ТВ
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Загородная жизнь
 http://185.57.68.33/40/index.m3u8
