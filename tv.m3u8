@@ -35,3 +35,9 @@ http://hls127.freeott.top:8080/Istoriya/video.m3u8
 
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Загородная жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
