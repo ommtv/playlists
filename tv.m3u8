@@ -34,3 +34,4 @@ http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
 
 #EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
+https://s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
