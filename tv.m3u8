@@ -24,15 +24,14 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 
+#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png" tvg-shift="-2", Усадьба
+http://stream.mcquack.net/211/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
 http://stream.mcquack.net/68/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
-
-#EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
-
-#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
-https://s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
+http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8
