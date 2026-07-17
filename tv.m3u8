@@ -21,23 +21,8 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u8
 
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Загородный
-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
+https://178.218.204.217:443/1044/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Загородная жизнь
-http://185.57.68.33/40/index.m3u8
-
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Мосфильм
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", История
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
-
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png", Наше новое кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="2298", Загородная жизнь
+#EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
