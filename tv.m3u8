@@ -34,4 +34,4 @@ http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
-http://stream.mcquack.net/68/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/68/index.m3u8
