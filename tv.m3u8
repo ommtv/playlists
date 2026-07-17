@@ -5,7 +5,7 @@
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ommtv.github.io/logos/tv/711.png" tvg-shift="-2", Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
+https://stream.smotrim.ru/hls/russia1_plus2/playlist_4.m3u8
 
 #EXTINF:-1 tvg-id="1683" tvg-logo="https://ommtv.github.io/logos/tv/1683.png", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
