@@ -30,11 +30,8 @@ http://stream.mcquack.net/211/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
-http://stream.mcquack.net/68/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
 http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
-https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
+http://stream.mcquack.net/68/tracks-v1a1/mono.ts.m3u8
