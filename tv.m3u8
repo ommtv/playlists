@@ -33,6 +33,9 @@ http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Советское кино
 https://s.ontivi.net/-Z4-6tNhCWAEMWvBIbABIw/243/1784357629/index.m3u8
 
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Советские мультфильмы
+https://s.ontivi.net/fNM-yDnqX47FAxcteJSJVg/244/1784373737/index.m3u8
+
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
 https://s.ontivi.net/-eZLHqeRZmvGO7a8ooM9cQ/510/1784347929/index.m3u8
 
