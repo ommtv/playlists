@@ -41,3 +41,6 @@ https://s.ontivi.net/-eZLHqeRZmvGO7a8ooM9cQ/510/1784347929/index.m3u8
 
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://s.ontivi.net/XreD0HFRK4kjkJC5K1yKhw/195/1784375255/index.m3u8
+
+#EXTINF:-1 tvg-id="2280" tvg-logo="https://ommtv.github.io/logos/tv/2280.png" tvg-shift="-2", Russian Travel Guide
+https://s.ontivi.net/PmeiqIXQNmq6jNpHVwilYg/545/1784374031/index.m3u8
