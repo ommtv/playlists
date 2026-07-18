@@ -33,20 +33,5 @@ http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм
 http://stream.mcquack.net/369/index.m3u8
 
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Советское кино
-https://s.ontivi.net/2I7AFDhsqyZUZ42KqAYdSw/243/1784377304/index.m3u8
-
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Советские мультфильмы
-https://s.ontivi.net/fNM-yDnqX47FAxcteJSJVg/244/1784373737/index.m3u8
-
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Союзмультфильм
-https://s.ontivi.net/_g8nB9E_W9fgIC-9imnGDA/511/1784373732/index.m3u8
-
-#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
-https://s.ontivi.net/-eZLHqeRZmvGO7a8ooM9cQ/510/1784347929/index.m3u8
-
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
-https://s.ontivi.net/XreD0HFRK4kjkJC5K1yKhw/195/1784375255/index.m3u8
-
-#EXTINF:-1 tvg-id="2280" tvg-logo="https://ommtv.github.io/logos/tv/2280.png" tvg-shift="-2", Russian Travel Guide
-https://s.ontivi.net/PmeiqIXQNmq6jNpHVwilYg/545/1784374031/index.m3u8
+https://tvcdnpotok.com/_E48JgtRM-rh0i8s4UcrqQ/195/1784414421/index.m3u8
