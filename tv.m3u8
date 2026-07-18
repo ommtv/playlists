@@ -38,3 +38,6 @@ https://s.ontivi.net/-eZLHqeRZmvGO7a8ooM9cQ/510/1784347929/index.m3u8
 
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Киностудия Беларусьфильм
 http://94.103.2.120:8081/iptv/belarusfilm-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDE6MjI6NTMgQU0maGFzaF92YWx1ZT05Nm0rVmZweUJuS2FoTW5kazZCbjRRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-id="9002" tvg-logo="https://ommtv.github.io/logos/tv/9002.png" tvg-shift="-2", Советская киноклассика
+http://45.151.62.193:8081/iptv/Soviet-kinoclassic-channel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDE6Mjk6NDcgQU0maGFzaF92YWx1ZT1kd3I3NlVJVmFhNzQ5U0dGSGcvVUpnPT0mdmFsaWRtaW51dGVzPTIw
