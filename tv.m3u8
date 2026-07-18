@@ -25,7 +25,7 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 http://stream.mcquack.net/211/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
-http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
 http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8
