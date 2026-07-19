@@ -32,3 +32,6 @@ http://stream.mcquack.net/242/index.m3u8
 
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+
+#EXTINF:-1 tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png" tvg-shift="-2", Бобёр
+https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
