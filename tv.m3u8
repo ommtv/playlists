@@ -27,6 +27,9 @@ http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
 http://stream.mcquack.net/242/index.m3u8
 
+#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Кинокомедия
+http://stream.mcquack.net/265/index.m3u8
+
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
 http://stream.mcquack.net/68/index.m3u8
 
