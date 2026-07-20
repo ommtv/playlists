@@ -33,7 +33,7 @@ http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png" tvg-shift="-2", Усадьба
 http://stream.mcquack.net/211/index.m3u8
 
-#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png" tvg-shift="-2", Диалоги о рыбалке
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
