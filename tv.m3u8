@@ -47,3 +47,6 @@ https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png" tvg-shift="-2", Загородный
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
