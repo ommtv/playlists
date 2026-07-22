@@ -32,3 +32,6 @@ https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Русский иллюзион
+https://smotr.top/kanal/000004207/index.m3u8
