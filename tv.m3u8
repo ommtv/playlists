@@ -35,3 +35,6 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2114/index.m3u8
+
+#EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/index.m3u8?token=onlinetv
