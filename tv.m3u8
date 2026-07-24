@@ -23,12 +23,3 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 http://smotrim.org/000000289.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2114/index.m3u8
-
-#EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png" tvg-shift="-2", Загородный
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2124/index.m3u8
-
-#EXTINF:-1 tvg-id="9002" tvg-logo="https://ommtv.github.io/logos/tv/9002.png" tvg-shift="-2", Советская киноклассика
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2146/index.m3u8
